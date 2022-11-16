@@ -252,7 +252,7 @@ Text Editors are like clothes. Everyone has their preferences. I prefer VS Code 
 
 Python is the language we will be using to build our Flask application. It is also already installed on the flip servers. We will require Python 3 (or better) for the purposes of this project.
 
-***Optionally*** you may wish to install a local copy of MySQL on your PC from [here](https://www.python.org/downloads/)
+***Optionally*** you may wish to install a local copy of Python on your PC from [here](https://www.python.org/downloads/)
 
 I won't get to specifics, but its fairly straightforward to install Python (if you want to). 
 
@@ -535,7 +535,7 @@ We can go back to our browser and verify that our changes were good
 
 Ok, so how do we get data from the server to display on the page? The power of templating of course! Before we get off to a roll here, I am going to point everyone to a very important link.
 
-[Jinja 2 Template Designer Documents](https://jinja.palletsprojects.com/en/2.11.x/templates/)
+[Jinja 2 Template Designer Documents](https://jinja.palletsprojects.com/en/3.0.x/templates/)
 
 Keep these handy when you are working with Jinja templates, they're invaluable.
 
