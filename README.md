@@ -252,7 +252,7 @@ Text Editors are like clothes. Everyone has their preferences. I prefer VS Code 
 
 Python is the language we will be using to build our Flask application. It is also already installed on the flip servers. We will require Python 3 (or better) for the purposes of this project.
 
-***Optionally*** you may wish to install a local copy of MySQL on your PC from [here](https://www.python.org/downloads/)
+***Optionally*** you may wish to install a local copy of Python on your PC from [here](https://www.python.org/downloads/)
 
 I won't get to specifics, but its fairly straightforward to install Python (if you want to). 
 
