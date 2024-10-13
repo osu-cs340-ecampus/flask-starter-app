@@ -106,19 +106,15 @@ But without further ado, here's the quick and dirty start-up:
 
 ![step2 command](./doc_img_step0/step2.png)
 
-3) Run "pip3 install --user virtualenv"
-
-![step3 command](./doc_img_step0/step3.png)
-
-4) Run "python3 -m venv ./venv" (the period . is part of the command, don’t forget it!).
+3) Run "python3 -m venv ./venv" (the period . is part of the command, don’t forget it!).
 
 ![step4 command](./doc_img_step0/step4.png)
 
-5) Run "source venv/bin/activate", afterwards you should see (yourfoldername) flipX in the terminal which means we are successfully in the virtual environment.
+4) Run "source venv/bin/activate", afterwards you should see (yourfoldername) flipX in the terminal which means we are successfully in the virtual environment.
 
 ![step5 command](./doc_img_step0/step5.png)
 
-6) After that, run "pip3 install flask-mysqldb", don’t worry about updating pip or whatever it prompts you with – ignore that.
+5) After that, run "pip3 install flask-mysqldb", don’t worry about updating pip or whatever it prompts you with – ignore that.
 
 ![step6 command](./doc_img_step0/step6.png)
 
